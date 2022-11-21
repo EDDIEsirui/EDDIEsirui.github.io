@@ -27,7 +27,6 @@
               <h1>
                 Sirui Chen
               </h1>
-              <!-- <a href="https://fujunruan.com/web_CN">中文版</a>  -->
               <p>I am a grade 12 student in Guangzhou Foreign Language School.I've been studying in Advanced Placement in the past two years. My intended major is mechanical engineering, computer science.
               </p>
               <p>
@@ -48,10 +47,7 @@
               </p>
             </td>
             <td style="padding:2.5%;width:40%;max-width:40%">
-              <img style="width:70%;max-width:70%" alt="profile photo" src="images/head.jpg">
-
-
-              
+              <img style="width:70%;max-width:70%" alt="profile photo" src="images/head.jpg">            
             </td>
           </tr>
         </table>
@@ -79,9 +75,10 @@
               <br>
               <em>{{post.time}}</em>
               <br>
+              {% if post.period %}
               {{post.period}}
+              {% endif %}
               <br>
-
               {% if post.background %}
               <a href="{{post.background}}" target="_blank">background</a> /
               {% endif %}
@@ -140,9 +137,10 @@
               <br>
               <em>{{post.Duty}}</em>
               <br>
+              {% if post.period %}
               {{post.period}}
+              {% endif %}
               <br>
-
               {% if post.background %}
               <a href="{{post.background}}" target="_blank">background</a> /
               {% endif %}
