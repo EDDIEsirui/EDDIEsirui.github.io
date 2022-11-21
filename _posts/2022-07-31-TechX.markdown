@@ -13,5 +13,3 @@ categories: research
 - In the capstone project, our team created a refrigerator camera that can recognize the components people put in and offer them various scenarios of dishes that can be made with these stored foods. 
 - I learned how to collect data from the website, create data set, and proficiently use machine learning models, and I also improve my coding skill in Python.
 
-#### **Publication:**
-A self-reactive ocean wave energy converter with winch-based power take-off: design, prototype, and experimental evaluation -IDETC 2022
