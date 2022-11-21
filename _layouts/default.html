@@ -79,6 +79,7 @@
               <br>
               <em>{{post.time}}</em>
               <br>
+              <em>{{post.period}}</em>
               {% if post.background %}
               <a href="{{post.background}}" target="_blank">background</a> /
               {% endif %}
@@ -99,9 +100,6 @@
               {% endif %}
               {% if post.slides %}
               <a href="{{post.slides}}" target="_blank">slides</a> /
-              {% endif %}
-              {% if post.period %}
-              <a href="{{post.period}}" target="_blank">period</a> /
               {% endif %}
               <p></p>
               {{ post.excerpt }}
