@@ -5,6 +5,7 @@ time: "7/2022 - 7/2022"
 image: 
 background: "http://seb199.me.vt.edu/zuo/research-programs/"
 authors: "X academy"
+period: "8 hrs/48 weeks"
 categories: research
 ---
 **Basic Deep Learning, Machine Learning, Natural Language Processing; Capstone Project** 
