@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Development of Small Glasses for the Blind and Visually Impaired"
-time:   "5/2022 - Present"
+time:   "2/2022 - Present"
 image: 
 categories: research
 authors: "Fujun Ruan, Carnegie Mellon University"
