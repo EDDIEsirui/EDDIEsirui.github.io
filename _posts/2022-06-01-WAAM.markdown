@@ -6,6 +6,7 @@ image:
 categories: research
 authors: "Professor Dan Huh. Carnegie Mellon University"
 background: "https://engineering.cmu.edu/mfi/mill19/equipment-details/lincoln-electric-sculptprint-rnd.html"
+Period: "10/12"
 ---
 **I had courses focusing on fundamental aspects of fluid flow behavior. I learned basic principles about microfluidic devices and fluid dynamics utilized in biomechanical fields. I also got familiar with concepts like viscosity, viscous fluid flows, flow through pipes, and so on. **
 - Based on the research, I wrote a paper about sperm sorting using microfluidic devices. The paper was published by IOP Conference Series "Journal of Physics" ISSN: 1742-6596.
