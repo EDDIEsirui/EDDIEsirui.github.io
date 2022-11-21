@@ -5,7 +5,7 @@ time:   "2/2022 - Present"
 image: 
 categories: research
 authors: "Fujun Ruan, Carnegie Mellon University"
-authors: "Sirui Chen"
+
 video: "https://issuu.com/siruichengz/docs/smart_glass_r_d"
 ---
 **I am inventing a product that can increasingly lift the life quality of the blind and visually impaired, and eliminate their self-inferiority using special devices.**
