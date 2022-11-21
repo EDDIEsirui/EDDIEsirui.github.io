@@ -7,6 +7,7 @@ categories: Internships
 background: "https://thinkredsharing.com"
 authors: "Next Innovation"
 Duty: "Founder & CEO"
+Period: ""
 ---
 - Develop the education products for high school students' competition
 - Build the only 3D modeling sharing website based on the FRC robot competition in China

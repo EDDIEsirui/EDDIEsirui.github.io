@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "Robotics Competition Founding"
-time:   "Aug. 2020 – May. 2021"
+title:  "First Robotic Competition (FRC) team8538 Juggernaut"
+time:   "8/2021 - Present"
 image: images/MakeX.jpg
 categories: Internships
 background: "https://www.makex.cc/en"
-authors: "Makeblock"
-Duty: "Advisor & Competition R&D intern& Operational intern"
+authors: "NI robotics"
+Duty: "Captain of 8583"
+period: "8 hrs/48 weeks"
 ---
-- The solution helped to increase the business scale by 35 times in two years (the third in the world in business), the company's largest revenue growth point, with an annual sale of 50 million.
-- Design competition topic base on students' level and needs, and design the robots to verify the topic
-- Speaking as an advisor about American robot competitions, such as: team management, community building, competition management
+- Learned computer vision and compilation using java;
+- Drew drafts of the robot, test climbing, and shooting balls;
+- 2022 FRC season competition in Sep.2022
