@@ -2,7 +2,7 @@
 layout: post
 title: "ARCC Summer Program 2017&2018"
 time:  "Jul/2017 & Aug/2018"
-image: "image/ARCC.jpg"
+image: image/ARCC.jpg
 categories: community
 authors: "ARCC summer camp"
 background: "https://www.adventurescrosscountry.com/"
