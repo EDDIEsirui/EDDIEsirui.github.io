@@ -2,7 +2,7 @@
 layout: post
 title:  "Fluid dynamic Project"
 time:   "July/2021 - September/2021"
-image: ""
+image: images/Certificate.png
 categories: Internships
 authors: "Professor Dan Huh. University Of Pennsylvania"
 period: "10 hrs/12 weeks"
