@@ -3,7 +3,7 @@ layout: post
 title:  "Fluid dynamic Project"
 time:   "July/2021 - September/2021"
 image: 
-categories: research
+categories: Internships
 authors: "Professor Dan Huh. University Of Pennsylvania"
 period: "10 hrs/12 weeks"
 background: "https://engineering.cmu.edu/mfi/mill19/equipment-details/lincoln-electric-sculptprint-rnd.html"
