@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "First Robotic Competition (FRC) team8538 Juggernaut"
+time:   "8/2021 - Present"
+image: images/four_leg.jpg
+categories: Internships
+background: "https://www.makex.cc/en"
+authors: "NI robotics"
+Duty: "Captain of 8583"
+period: "8 hrs/48 weeks"
+---
+- Learned computer vision and compilation using java;
+- Drew drafts of the robot, test climbing, and shooting balls;
+- 2022 FRC season competition in Sep.2022
