@@ -5,5 +5,6 @@ time:  "April/25th/2017"
 image: images/ABRSM.png
 categories: race
 authors: "ABRSM"
+Award: "ABRSM Level 6 Certificate, Piano"
 background: "ABRSM (The Associated Board of the Royal Schools of Music) is the UK's largest music education body"
 ---
