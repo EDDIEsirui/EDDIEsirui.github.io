@@ -3,7 +3,7 @@ layout: post
 title:  "New Charity"
 time:   "Jan./2021 - Present                   "
 image: images/Newcharity.jpg
-categories: Internships
+categories: community
 background: 
 authors: "New Charity Club"
 Duty: "President"
