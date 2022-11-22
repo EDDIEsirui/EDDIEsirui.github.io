@@ -1,0 +1,9 @@
+---
+layout: post
+title: "AMC10 exam"
+time:  "February/2021"
+image: images/AMC.png
+categories: race
+authors: "MMA"
+background: "Part of a series of exams that determine the US team for the International Mathematical Olympiad. Students in grade10 can participate in."
+---

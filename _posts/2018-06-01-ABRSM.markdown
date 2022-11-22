@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ABRSM Certificate"
-time:  "Jul/2017 & Aug/2018"
+time:  "April/25th/2017"
 image: images/ABRSM.png
 categories: race
 authors: "ABRSM"
