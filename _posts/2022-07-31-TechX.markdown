@@ -9,7 +9,7 @@ period: "8 hrs/48 weeks"
 categories: research
 ---
 **Basic Deep Learning, Machine Learning, Natural Language Processing; Capstone Project** 
-- covered some basic principles in both machine learning and natural language processing, including Text classification, RNN, LSTM, and Attention.
-- In the capstone project, our team created a refrigerator camera that can recognize the components people put in and offer them various scenarios of dishes that can be made with these stored foods. 
+- covered some basic principles in both machine learning and natural language processing
+- created a refrigerator camera that can recognize the components people put in and offer them various scenarios of dishes that can be made with these stored foods. 
 - I learned how to collect data from the website, create data set, and proficiently use machine learning models, and I also improve my coding skill in Python.
 
