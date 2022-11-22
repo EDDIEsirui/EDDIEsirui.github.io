@@ -5,7 +5,7 @@ time: "7/2022 - 7/2022"
 image: images/TechX.jpg
 background: 
 authors: "X academy"
-period: "8 hrs/48 weeks"
+period: "8 hrs/ 10days"
 categories: research
 ---
 **Basic Deep Learning, Machine Learning, Natural Language Processing; Capstone Project** 

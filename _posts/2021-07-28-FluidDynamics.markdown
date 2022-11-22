@@ -5,7 +5,7 @@ time:   "July/2021 - September/2021"
 image: images/Certificate.png
 categories: research
 authors: "Professor Dan Huh. University Of Pennsylvania"
-period: "10 hrs/12 weeks"
+period: "10 hrs/24 weeks"
 background: 
 ---
 **I had courses focusing on fundamental aspects of fluid flow behavior & basic principles about microfluidic devices.**
