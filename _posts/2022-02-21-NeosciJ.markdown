@@ -3,7 +3,7 @@ layout: post
 title:  "Neo-Scientist Journal"
 time:   "1/2022 - 6/2022"
 image: images/Neo.png
-categories: community
+categories: extra
 background: "http://nsjournal.cn/"
 authors: "Ulrica, LiuJing"
 Duty: "Editorial Excecutive at Engineering Department"
