@@ -2,7 +2,7 @@
 layout: post
 title:  "First Robotic Competition (FRC) team8538 Juggernaut"
 time:   "8/2021 - Present"
-image: image/FRC.jpg
+image: images/FRC.jpg
 categories: Internships
 background: "https://www.makex.cc/en"
 authors: "NI robotics"

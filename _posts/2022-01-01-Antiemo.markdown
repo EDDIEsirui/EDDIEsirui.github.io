@@ -2,7 +2,7 @@
 layout: post
 title:  "Anti-emo Platform"
 time:   "1/2022 - 6/2022"
-image: image/antiemo.png
+image: images/antiemo.png
 categories: community
 background: "https://www.emoanti.com/"
 authors: "Grace Liu; Anti-emo Club"

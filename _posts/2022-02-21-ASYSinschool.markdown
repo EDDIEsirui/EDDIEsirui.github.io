@@ -2,7 +2,7 @@
 layout: post
 title:  "ASYS Club"
 time:   "Feb. /2022 - Present"
-image: image/ASYSclub.jpg
+image: images/ASYSclub.jpg
 categories: Internships
 background: "https://www.emoanti.com/"
 authors: "Eddie Chen, Veronica Yuqi, Wendy Deng"
