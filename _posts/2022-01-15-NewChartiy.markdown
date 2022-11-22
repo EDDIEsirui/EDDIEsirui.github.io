@@ -4,7 +4,7 @@ title:  "New Charity"
 time:   "Jan./2021 - Present                   "
 image: images/Newcharity.jpg
 categories: Internships
-background: "https://thinkredsharing.com"
+background: 
 authors: "New Charity Club"
 Duty: "President"
 Period: "2 hrs/ - weeks"

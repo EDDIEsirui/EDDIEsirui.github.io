@@ -3,7 +3,7 @@ layout: post
 title:  "TechX Academy"
 time: "7/2022 - 7/2022"
 image: images/TechX.jpg
-background: "http://seb199.me.vt.edu/zuo/research-programs/"
+background: 
 authors: "X academy"
 period: "8 hrs/48 weeks"
 categories: research

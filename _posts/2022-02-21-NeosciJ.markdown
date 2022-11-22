@@ -4,7 +4,7 @@ title:  "Neo-Scientist Journal"
 time:   "1/2022 - 6/2022"
 image: images/Neo.png
 categories: community
-background: "https://www.emoanti.com/"
+background: "http://nsjournal.cn/"
 authors: "Ulrica, LiuJing"
 Duty: "Editorial Excecutive at Engineering Department"
 period: "2 hrs/24 weeks"

@@ -6,7 +6,7 @@ image: images/TechX.jpg
 categories: Internship
 authors: "Sammantha Xie"
 period: "4 hrs/12 weeks"
-background: "https://engineering.cmu.edu/mfi/mill19/equipment-details/lincoln-electric-sculptprint-rnd.html"
+background: 
 ---
 
 **We invited graduate students to share their “metamorphosis” stories on their path to their dream college**

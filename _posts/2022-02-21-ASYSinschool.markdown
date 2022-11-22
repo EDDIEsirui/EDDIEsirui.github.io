@@ -4,7 +4,7 @@ title:  "ASYS Club"
 time:   "Feb. /2022 - Present"
 image: images/ASYSclub.jpg
 categories: Internships
-background: "https://www.emoanti.com/"
+background: "https://mp.weixin.qq.com/s/INM12DRXajTo7l1yYabZVg"
 authors: "Eddie Chen, Veronica Yuqi, Wendy Deng"
 Duty: "President"
 period: "2 hrs/- weeks"

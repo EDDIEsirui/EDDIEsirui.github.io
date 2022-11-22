@@ -4,7 +4,7 @@ title:  "Discipline Department of GZFLS Student Union "
 time:   "Sep./2021 - Present                   "
 image: images/GZFLS.jpg
 categories: Internships
-background: "https://thinkredsharing.com"
+background: 
 authors: "GZFLS International Department"
 Duty: "Chairman"
 Period: "2 hrs/16 weeks"
