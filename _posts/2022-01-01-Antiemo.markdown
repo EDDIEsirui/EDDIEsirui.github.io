@@ -5,7 +5,7 @@ time:   "1/2022 - 6/2022"
 image: images/antiemo.png
 categories: community
 background: "https://www.emoanti.com/"
-authors: "Grace Liu; Anti-emo Club"
+authors: "Grace Liu(founder); Anti-emo Club"
 Duty: "High School Campus Coordinator, GZ Regional Coordinator"
 period: "8 hrs/48 weeks"
 ---
