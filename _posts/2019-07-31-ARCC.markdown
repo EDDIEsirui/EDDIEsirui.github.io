@@ -5,6 +5,7 @@ time:  "Jul/2017 & Aug/2018"
 image: images/ARCC.jpg
 categories: community
 authors: "ARCC summer camp"
+Duty: "member"
 background: "https://www.adventurescrosscountry.com/"
 ---
 **This program runs multiple programs in the summer and gap seasons; ARCC is looked to as the standard for delivering quality, fulfilling and enriching programs for participants.**
