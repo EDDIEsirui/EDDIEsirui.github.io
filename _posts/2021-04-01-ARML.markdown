@@ -1,0 +1,9 @@
+---
+layout: post
+title: "ARML Exam"
+time:  "April/2021"
+image: images/ARML.png
+categories: race
+authors: "ARML"
+background: "ARML is organized by schools in different regions, and students who have an interest in mathematics can take the test as an individual or as a team of 6."
+---

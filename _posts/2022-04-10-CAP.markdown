@@ -1,0 +1,9 @@
+---
+layout: post
+title: "CAP Exam"
+time:  "April/2022"
+image: images/CAP.png
+categories: race
+authors: "CAP"
+background: "This is a three-hour exam. National ranking and prizes will be based on a student’s performance on sections A, B, and C of the exam."
+---
