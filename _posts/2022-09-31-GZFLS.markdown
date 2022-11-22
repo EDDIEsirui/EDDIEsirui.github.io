@@ -2,7 +2,7 @@
 layout: post
 title:  "Discipline Department of GZFLS Student Union "
 time:   "Sep./2021 - Present                   "
-image: images/GZFLS.jpg
+image: images/GZFLSnewyear.jpg
 categories: Internships
 background: 
 authors: "GZFLS International Department"
