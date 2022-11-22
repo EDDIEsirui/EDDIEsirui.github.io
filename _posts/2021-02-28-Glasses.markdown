@@ -2,7 +2,7 @@
 layout: post
 title:  "Development of Small Glasses for the Blind and Visually Impaired"
 time:   "8/2021 - Present"
-image: 
+image: images/Glasses.jpg
 categories: research
 Duty: "Inventor"
 background:
