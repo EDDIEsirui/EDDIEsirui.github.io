@@ -2,8 +2,8 @@
 layout: post
 title: "ABRSM Certificate"
 time:  "Jul/2017 & Aug/2018"
-image: images/ARCC.jpg
-categories: community
-authors: "ARCC summer camp"
-background: "https://www.adventurescrosscountry.com/"
+image: images/ABRSM.png
+categories: race
+authors: "ABRSM"
+background: "ABRSM (The Associated Board of the Royal Schools of Music) is the UK's largest music education body"
 ---
