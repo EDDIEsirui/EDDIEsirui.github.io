@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First Robotic Competition (FRC) team8538 Juggernaut"
+title:  "First Robotic Competition (FRC) team8583 Juggernaut"
 time:   "8/2021 - Present"
 image: images/FRC.jpg
 categories: Internships
