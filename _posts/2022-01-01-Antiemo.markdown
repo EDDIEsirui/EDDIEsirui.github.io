@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Anti-emo Platform"
+time:   "1/2022 - 6/2022"
+image: image/antiemo.png
+categories: community
+background: "https://www.emoanti.com/"
+authors: "Grace Liu; Anti-emo Club"
+Duty: "High School Campus Coordinator, GZ Regional Coordinator"
+period: "8 hrs/48 weeks"
+---
+**This is a platform dedicated to helping teenage international students to relieve anxiety and improve mental well-being**
+- Held monthly seminars, inviting guests to offer advice on facing challenges while studying abroad;
+- Recruited 10+ students to volunteer for peer counseling;
+- Offered training in active listening & other basic mentoring skills; 
+- Planned leisure events & provided peer mentoring for students under stress.

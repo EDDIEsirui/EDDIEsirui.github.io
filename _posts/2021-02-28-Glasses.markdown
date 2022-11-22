@@ -10,5 +10,5 @@ video: "https://issuu.com/siruichengz/docs/smart_glass_r_d"
 authors: "Fujun Ruan, Carnegie Mellon University"
 ---
 **I am inventing a product that can increasingly lift the life quality of the blind and visually impaired, and eliminate their self-inferiority using special devices.**
-- I am now learning computer vision and basic deep learning with a postgraduate at Carnegie Mellon University. 
-- I plan to finish my project at the end of this year and put it into use among some blind people, so that I can attain invaluable feedback and get further improvements in the future.
+- learning computer vision and basic deep learning with a postgraduate at CMU.
+- put it into use among some blind people in order to attain invaluable feedback & get further improvements.
