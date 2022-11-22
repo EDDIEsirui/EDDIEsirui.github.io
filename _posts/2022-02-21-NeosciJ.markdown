@@ -2,7 +2,7 @@
 layout: post
 title:  "Neo-Scientist Journal"
 time:   "1/2022 - 6/2022"
-image: images/antiemo.png
+image: images/Neo.png
 categories: community
 background: "https://www.emoanti.com/"
 authors: "Ulrica, LiuJing"
