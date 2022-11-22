@@ -2,7 +2,7 @@
 layout: post
 title:  "New Charity"
 time:   "Jan./2021 - Present                   "
-image: 
+image: images/Newcharity.jpg
 categories: Internships
 background: "https://thinkredsharing.com"
 authors: "New Charity Club"
