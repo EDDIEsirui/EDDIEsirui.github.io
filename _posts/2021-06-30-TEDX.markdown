@@ -1,11 +1,14 @@
 ---
 layout: post
 title:  "TEDX club"
-time:   "July/2021 - September/2021"
-image: images/Certificate.png
-categories: research
-authors: "Professor Dan Huh. University Of Pennsylvania"
-period: "10 hrs/12 weeks"
+time:   "Jun./2021"
+image: 
+categories: Internship
+authors: "Sammantha Xie"
+period: "4 hrs/12 weeks"
 background: "https://engineering.cmu.edu/mfi/mill19/equipment-details/lincoln-electric-sculptprint-rnd.html"
 ---
 
+**We invited graduate students to share their “metamorphosis” stories on their path to their dream college**
+- Helped build an online platform to provide students’ parents and officials from other schools with live broadcasting and recordings;
+- Attracted 300+ students and teachers, the live broadcasting got 2000+ hits.
