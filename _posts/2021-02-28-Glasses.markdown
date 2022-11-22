@@ -5,7 +5,7 @@ time:   "8/2021 - Present"
 image: 
 categories: research
 Duty: "Inventor"
-background: "https://www.makex.cc/en"
+background:
 video: "https://issuu.com/siruichengz/docs/smart_glass_r_d"
 authors: "Fujun Ruan, Carnegie Mellon University"
 ---
