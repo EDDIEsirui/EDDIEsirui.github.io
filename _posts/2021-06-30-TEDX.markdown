@@ -2,7 +2,7 @@
 layout: post
 title:  "TEDX club"
 time:   "Jun./2021"
-image: 
+image: images/TechX.jpg
 categories: Internship
 authors: "Sammantha Xie"
 period: "4 hrs/12 weeks"
