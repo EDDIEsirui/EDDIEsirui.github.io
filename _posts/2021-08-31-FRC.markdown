@@ -5,7 +5,7 @@ time:   "8/2021 - Present"
 image: images/FRC.jpg
 categories: Internships
 background: "https://www.firstinspires.org/robotics/frc"
-video: "https://www.bilibili.com/video/BV1T5411T76d/?spm_id_from=333.337.search-card.all.click"
+video: "https://docs.google.com/presentation/d/16iPdqA1VuigBErWJRvsFi25IECJQPUCMqD74Q7l3-MI/edit?usp=sharing"
 authors: "Next Innovation robotics"
 Duty: "Captain of 8583"
 period: "8 hrs/48 weeks"
